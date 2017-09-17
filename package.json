@@ -1,0 +1,21 @@
+{
+  "name": "node-login",
+  "version": "1.0.0",
+  "description": "Login And Registration API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "swapnil",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "jsonwebtoken": "^7.4.3",
+    "morgan": "^1.8.2",
+    "nodemailer": "^4.0.1",
+    "random-string": "^0.2.0",
+    "randomatic": "^1.1.7"
+  }
+}
